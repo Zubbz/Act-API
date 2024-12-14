@@ -8,8 +8,7 @@ public class UserData
 {
     public int id;
     public string Username;
-    public string Level;
-    public string Email;
-    public string Class;
-    public string GuildName;
+    public string Password;
+    public string confirmPassword;
+    public string classChosen;
 }
